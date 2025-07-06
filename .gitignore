@@ -1,0 +1,20 @@
+# Virtual environments
+.venv/
+virality-env/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Raw/unshared data and huge model files
+data/images/
+data/raw/
+data/output/
+*.pkl
+*.joblib
+
+# System/env files
+.env
+.DS_Store
+.ipynb_checkpoints/
+
