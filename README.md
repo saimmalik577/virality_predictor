@@ -1,12 +1,12 @@
 # Social Media Virality Predictor
 
-This repository contains the code, models, and data pipelines for **predicting the virality of sustainability-related social media content using multimodal deep learning**. Developed as the BSc thesis project of *Saim A.D. Malik* under the supervision of **Prof. Dr. Omid Fatahi Valilai** at [Constructor University Bremen](https://constructor.university), this work combines **state-of-the-art natural language** and **computer vision models** to forecast **engagement rate** from post content.
+This repository contains the code, models, and data pipelines for **predicting the virality of sustainability-related social media content using multimodal deep learning**. Developed as the BSc thesis project of *Saim A.D. Malik* under the supervision of **Prof. Dr. Omid Fatahi Valilai** at [Constructor University Bremen](https://constructor.university), this work combines **state-of-the-art natural language processing** and **computer vision models** to predict **engagement rate** from post content.
 
 ---
 
 ## Project Overview
 
-With growing concerns over climate change and sustainability, platforms like Instagram have become central to awareness campaigns. However, the success of such posts often hinges on subjective content quality. This project builds a tool that can **predict engagement rate** (likes/comments relative to followers) based solely on a post's **image and caption**.
+With growing concerns over climate change and sustainability, platforms like Instagram have become central to awareness campaigns. However, the success of such posts often depends on subjective content quality. This project builds a tool that can **predict engagement rate** (likes/comments relative to followers) based solely on a post's **image and caption**.
 
 ### Key Components:
 
